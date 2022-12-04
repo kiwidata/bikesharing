@@ -5,6 +5,12 @@ The purpose of this analysis is to convince investors that a bike-sharing progra
 
 ## Results
 
+Please find the following result in this link
+
+[link to dashboard](https://public.tableau.com/app/profile/kiwi.data/viz/CitiBikeExcercice/Story)
+
+If any issues arise please find the snapshots of the dashboard below:
+
 ![Checkout Times For Users](https://user-images.githubusercontent.com/111706055/205469274-4001c325-9268-41bf-bb5b-98482d0b6065.png)
 
 ![Trips by Weekday for Each Hour](https://user-images.githubusercontent.com/111706055/205469281-ef232c3b-f1fc-409d-9460-190ac9b8aa42.png)
